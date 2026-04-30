@@ -1,0 +1,39 @@
+p {
+  color: red;
+}
+
+.box1 {
+  color: blue;
+}
+
+#unique {
+  color: green;
+}
+
+[type="text"] {
+  color: orange;
+}
+
+div span {
+  color: purple;
+}
+
+section > p {
+  color: brown;
+}
+
+h2 + p {
+  color: teal;
+}
+
+div.combo p {
+  color: pink;
+}
+
+li {
+  color: gray;
+}
+
+a [href] {
+  color: black;
+}
